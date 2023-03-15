@@ -1,11 +1,12 @@
 Oblig 2
 =======
-OsloMet brukernavn: 
+OsloMet brukernavn: s374976
 
-GitHub brukernavn: 
+GitHub brukernavn: arifozden
 
 Github repo URL: 
 
-Fullt navn: 
+Fullt navn: Arif Özden
 
 Kort beskrivelse av applikasjon (5-10 setninger):
+Appen kan brukes til å bestille biletter. 
